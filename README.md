@@ -1,4 +1,4 @@
-# Teste Front-end Junior (Vue) — Mini Projeto: Pesquisa de Satisfação
+# Teste Front-end (Vue) — Pesquisa de Satisfação
 
 ## Objetivo
 Construir um mini sistema em **Vue 3** onde um usuário consegue **responder uma pesquisa** (em formato step-by-step, estilo widget) e depois existe uma área interna que **lista, edita e exclui respostas**.
@@ -57,7 +57,7 @@ A pesquisa deve conter **4 passos** (fixos) na ordem abaixo:
 - Exibir tela/estado “Obrigado” com mensagem de sucesso
 
 **Regras de UX:**
-- “Próxima” deve ficar desabilitado enquanto a pergunta obrigatória não for respondida
+- “Próxima/Next” deve ficar desabilitado enquanto a pergunta obrigatória não for respondida
 - Exibir erro de validação quando tentar avançar sem preencher obrigatório
 - Mostrar loading no botão “Enviar/Submit” (simulado com timeout curto, ex. 300ms)
 
